@@ -8,7 +8,7 @@ __________________________________________________________________________
 2.	CSS
 3.	Java Script
 
-Answer: 	
+Answer: 	1.
 
 
 2. Which one of the following is a Declarative Language??
@@ -17,12 +17,12 @@ Answer:
 2.	CSS
 3.	Java Script
 
-Answer: 
+Answer: 3.
 
 
 3. Name two uses of a DIV tag??
 
-Answer:
+Answer: <div> and <div/>
 
 
 
@@ -33,14 +33,14 @@ Answer:
 
 4. What is the difference between relative positioning and absolute positioning in HTML?
 
-Answer: 
+Answer: I have no idea
 
 
 
 
 5. What is the use of opacity in CSS??
 
-Answer: 
+Answer: it sets the  opacity of an element
 
 
 
@@ -48,13 +48,13 @@ Answer:
 
 6. Which is the programming language used in the React Native Framework??
 
-Answer: 
+Answer: HTML
 
 
 
 7. Which online editor are we using for creating our apps in React Native Framework??
 
-Answer: 
+Answer: Snack
 
 
 
@@ -62,7 +62,7 @@ Answer:
 
 8. Write the steps to test your first designed app in the online editor on a mobile.
 
-Answer:
+Answer: you go to snack
 
 
 
@@ -72,7 +72,7 @@ Answer:
 
 9. What is the use of the render function in React Native Framework??
 
-Answer: 
+Answer:  the purpos is to to display the specified HTML code inside the specified HTML element.
 
 
 
@@ -81,7 +81,7 @@ Answer:
 
 10. What is the use of return function  in React Native Framework??
 
-Answer:
+Answer: Dont know how to explai
 
 
 
@@ -90,7 +90,7 @@ Answer:
 
 11. What are the various components in your first app that you designed??
 
-Answer: 
+Answer: Button
 
 
 
