@@ -4,25 +4,29 @@ __________________________________________________________________________
 
 1. Which one of the following is an Imperative Language??
 
-1.	HTML
-2.	CSS
-3.	Java Script
+1.HTML
+2.CSS
+3.Java Script
 
-Answer: 	1.
+Answer:Html 	
 
 
 2. Which one of the following is a Declarative Language??
 
-1.	HTML
-2.	CSS
-3.	Java Script
+1.HTML
+2.CSS
+3.Java Script
 
-Answer: 3.
+Answer: Java script
 
 
 3. Name two uses of a DIV tag??
 
-Answer: <div> and <div/>
+Answer:The 2 uses would be -
+
+1.seperating different componenets of the html so different styles can be given
+
+2.differencitation of code
 
 
 
@@ -33,14 +37,14 @@ Answer: <div> and <div/>
 
 4. What is the difference between relative positioning and absolute positioning in HTML?
 
-Answer: I have no idea
+Answer: ` The difference is relative means change of postion considering the things surrounding it and absolute means the change of the whole parental layout with the object itself
 
 
 
 
 5. What is the use of opacity in CSS??
 
-Answer: it sets the  opacity of an element
+Answer: opacity is the transperancy of a certain product
 
 
 
@@ -48,13 +52,13 @@ Answer: it sets the  opacity of an element
 
 6. Which is the programming language used in the React Native Framework??
 
-Answer: HTML
+Answer:  jsx,java script
 
 
 
 7. Which online editor are we using for creating our apps in React Native Framework??
 
-Answer: Snack
+Answer: snack
 
 
 
@@ -62,7 +66,7 @@ Answer: Snack
 
 8. Write the steps to test your first designed app in the online editor on a mobile.
 
-Answer: you go to snack
+Answer: scan the qr code from the snack editor from the my device section and then wait for your code to display on ur screen
 
 
 
@@ -72,7 +76,7 @@ Answer: you go to snack
 
 9. What is the use of the render function in React Native Framework??
 
-Answer:  the purpos is to to display the specified HTML code inside the specified HTML element.
+Answer: render function means render means giving or showing the ouput
 
 
 
@@ -81,7 +85,7 @@ Answer:  the purpos is to to display the specified HTML code inside the specifie
 
 10. What is the use of return function  in React Native Framework??
 
-Answer: I Don't know how to explain
+Answer:return means the data inputted
 
 
 
@@ -90,7 +94,4 @@ Answer: I Don't know how to explain
 
 11. What are the various components in your first app that you designed??
 
-Answer: Button
-
-
-
+Answer: text,button,view
